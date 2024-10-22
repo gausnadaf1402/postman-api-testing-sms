@@ -34,9 +34,6 @@ Before making requests, set up an environment in Postman to store common variabl
 
 Steps to Set Up Environment:
 Open Postman and navigate to Environments.
-Create a new environment called SMS API.
-Add the following variables:
-base_url – the base URL of your API (e.g., http://localhost:3000 or https://api.example.com).
 Student API Endpoints
 1. GET All Students
 Description: Retrieve a list of all students.
